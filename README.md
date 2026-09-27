@@ -20,7 +20,7 @@ A small 2D space shooter built with Python and Pygame. Pilot the ship, destroy i
 Clone the repository and enter its directory:
 
 ```bash
-git clone https://github.com/<your-username>/Space_Shooter.git
+git clone https://github.com/fidel147/Space-Shooter.git
 cd Space_Shooter
 ```
 
